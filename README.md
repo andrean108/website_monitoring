@@ -20,6 +20,10 @@ Fitur realtime menggunakan Express + Socket.IO, dan melakukan pengecekan status 
 │     ├── index.html
 │     ├── script.js
 │     └── style.css
+│── /ss
+      ├── aktivitas.png
+      ├── grafik.png
+      └── tabel.png
 ```
 # Cara Menjalankan
 ### 1. Masuk ke folder project
@@ -68,3 +72,14 @@ Semua status diambil melalui ping setiap 2 detik.
 Nama: andrean trissuryadi |
 NIM: 241091900437 |
 Mata Kuliah: Komunikasi Data
+
+# Screenshot
+
+### Tabel
+![Tabel](ss/tabel.png)
+
+### grafik
+![grafik](ss/grafik.png)
+
+### aktivitas log
+![aktivitas](ss/aktivitas.png)
