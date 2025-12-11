@@ -15,6 +15,7 @@ Fitur realtime menggunakan Express + Socket.IO, dan melakukan pengecekan status 
 /tugas web monitoring
 │── server.js
 │── devices.js
+│── package-lock.json
 │── package.json
 │── /public
 │     ├── index.html
